@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imageisux": "^1.0.5",
+    "gulp-webp": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp.spritesmith": "^6.9.0"
+  }
+}
